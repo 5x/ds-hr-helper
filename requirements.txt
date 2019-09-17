@@ -1,0 +1,10 @@
+aiohttp
+cchardet
+aiodns
+beautifulsoup4
+lxml
+uvloop; sys_platform != "win32"
+numpy
+nltk
+scipy
+scikit-learn
